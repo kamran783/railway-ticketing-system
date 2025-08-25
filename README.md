@@ -65,7 +65,7 @@ npm start
 > Replace these placeholders with actual screenshots of your project.
 
 - **Homepage**  
-![Homepage Screenshot](./screenshots/homepage.png)
+
 
 - **Train Search**  
 ![Train Search Screenshot](./screenshots/train-search.png)
@@ -82,10 +82,4 @@ npm start
 - 📧 Contact: ahmed22kamran@gmail.com   
 
 ---
-
-## 📂 Live Place for Photos
-
-You can place all your project screenshots inside a `/screenshots` folder within your repository for easy access.  
-Example structure:
-
 
