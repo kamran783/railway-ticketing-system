@@ -65,10 +65,9 @@ npm start
 > Replace these placeholders with actual screenshots of your project.
 
 - **Homepage**  
-
+screenshots/HomePage.png
 
 - **Train Search**  
-![Train Search Screenshot](./screenshots/train-search.png)
 
 - **Booking Page**  
 ![Booking Screenshot](./screenshots/booking.png)
