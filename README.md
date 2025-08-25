@@ -62,14 +62,16 @@ npm start
 
 ## 📸 Screenshots
 
-> Replace these placeholders with actual screenshots of your project.
 
 - **Homepage**  
 screenshots/HomePage.png
 
 - **Train Search**  
 screenshots/Search results.png
-- **Booking Page**  
+
+- **Booking Page**
+- screenshots/Booking page 1.png
+- screenshots/Booking page 2.png
 
 
 ---
