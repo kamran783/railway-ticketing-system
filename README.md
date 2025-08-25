@@ -68,9 +68,9 @@ npm start
 screenshots/HomePage.png
 
 - **Train Search**  
-
+screenshots/Search results.png
 - **Booking Page**  
-![Booking Screenshot](./screenshots/booking.png)
+
 
 ---
 
