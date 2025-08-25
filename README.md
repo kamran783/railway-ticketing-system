@@ -67,11 +67,13 @@ npm start
 screenshots/HomePage.png
 
 - **Train Search**  
-screenshots/Search results.png
+![Train Search](./screenshots/"Search results.png")
+
 
 - **Booking Page**
-- screenshots/Booking page 1.png
-- screenshots/Booking page 2.png
+![Booking Page](./screenshots/"Booking page 1.png")
+![Booking Page](./screenshots/"Booking page 2.png")
+
 
 
 ---
